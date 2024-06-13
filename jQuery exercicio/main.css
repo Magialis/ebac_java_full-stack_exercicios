@@ -79,6 +79,10 @@ span {
 }
 
 input[type=checkbox]:checked ~ .text {
-    color: #ccc;
+    color: #fff;
     text-decoration: line-through
+}
+
+.riscado {
+    text-decoration: line-through;
 }
